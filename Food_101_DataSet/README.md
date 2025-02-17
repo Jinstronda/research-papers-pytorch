@@ -1,0 +1,1 @@
+Took me a while to solve this data but i was able to do it using a Pre Trained Model, a tiny architecture didnt work but a pre trained model with 15 epochs (Only on the classification layer) and with all the other layers frozen was great
