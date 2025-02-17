@@ -1,7 +1,8 @@
-#Pytorch_Food_101_(Only_3_Classes,_testing_Custom_DataLoaders).ipynb
+# Pytorch_Food_101_(Only_3_Classes,_testing_Custom_DataLoaders).ipynb
 Big Fail, tried a TinyVGG and many different architectures but food was just too complicated, showed me a bit of the problems Deep Learning had a few years ago before the rise of huge data sets like IMAGENET and transfer learning became more famous
 
-#
+# Pytorch_Food_101_(Only_3_Classes,_testing_Custom_DataLoaders).ipynb
+Great, showed me the power of transfer learning with an accuracy of 83% on the Test Set. Amazing Results
 
 
 
